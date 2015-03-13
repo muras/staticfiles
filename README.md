@@ -1,0 +1,2 @@
+# staticfiles
+fake readme
